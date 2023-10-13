@@ -1,0 +1,55 @@
+html {
+  background-color: darkslategray;
+}
+
+nav {
+  background-color: darkred;
+  overflow: hidden;
+  height: 50px;
+}
+
+a:last-child {
+  border-right: none;
+}
+
+a {
+  text-align: center;
+  padding: 14px 16px;
+  color: white;
+  border-right: 1px solid white;
+  font-size: 35px;
+}
+
+.active {
+  background-color: black;
+}
+
+.header {
+  font-size: xx-large;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.home-image{
+  width: 800px;
+  height: 400px;
+  margin: 0 auto;
+}
+
+.image-box{
+  text-align: center;
+}
+
+p {
+  font-size: x-large;
+}
+
+.image-gallery{
+  text-align: center;
+}
+
+.image-gallery-pics{
+  width: 500px;
+  height: 400px;
+  margin: 10px;
+}
