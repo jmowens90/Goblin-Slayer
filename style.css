@@ -53,3 +53,27 @@ p {
   height: 400px;
   margin: 10px;
 }
+
+.ordered{
+  display: flex;
+  justify-content: center;
+  background-color: brown;
+}
+
+.facts-header{
+  text-align: center;
+}
+
+.unordered{
+  display: flex;
+  justify-content: center;
+  background-color: black;
+}
+
+ul {
+  color:white;
+}
+
+li {
+  font-size: x-large;
+}
